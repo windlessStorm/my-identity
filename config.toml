@@ -1,10 +1,11 @@
 theme = "awesome-identity"
 baseURL = ""
-
+relativeURLs = "True"
+uglyURLs = true
 
 ## Profile Configurations
 [params.profile]
-  portrait = "https://i.imgur.com/qbW3Ux6.jpg"
+  portrait = "/static/vik.jpg"
   firstname = "Vikrant"
   lastname = "Biswas"
   title = "Software Engineer"
