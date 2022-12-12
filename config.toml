@@ -20,7 +20,7 @@ canonifyURLs = true
 ## Actions Configurations
 [[params.actions]]
   name = "Review My CV"
-  url = "https://windlessstorm.github.io/resume/my_resume.pdf"
+  url = "https://windlessstorm.github.io/resume/resume.pdf"
 [[params.actions]]
   name = "Buy Me a Coffee"
   url = "https://buymeacoff.ee/vikrantb"
